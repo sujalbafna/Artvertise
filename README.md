@@ -69,5 +69,3 @@ artvertise/
 2. The prompt is sent to the backend, processed with the OpenAI API.
 3. AI generates a high-quality image based on the input.
 4. User can preview, save, or share the design.
-
----
